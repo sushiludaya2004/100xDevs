@@ -1,0 +1,90 @@
+body {
+    background-color: #0e0e0e;
+    color: #9ba3b4;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
+
+
+.navigation {
+    margin-top: 12px;
+    margin-left: 100;
+    margin-right: 100;
+    padding: 5px;
+    color: aliceblue;
+    flex-wrap: wrap;
+}
+
+
+.main {
+    margin-top: 50;
+    margin-left: 100;
+    margin-right: 100;
+    flex-wrap: wrap;
+}
+
+.left {
+    padding-left: 30px;
+    color: #9ba3b4;
+}
+
+.btn-download {
+    color: aliceblue;
+    background-color: #0078d4;
+    border-color: #0078d4;
+    border-radius: 4px;
+    border-style: solid;
+}
+
+#search {
+    border-radius: 4px;
+    border-color: #858585;
+    border-style: solid;
+    border-width: 1px;
+    background-color: #0e0e0e;
+}
+
+.version {
+    margin: 24px;
+    padding: 1px;
+}
+
+.version span {
+    padding-left: 13px;
+}
+
+a:-webkit-any-link {
+    color: #4daafc !important;
+    background-color: transparent !important;
+    text-decoration: underline !important;
+}
+
+.main-btn {
+    padding: 10px;
+    border-radius: 16px;
+    background-color: rgb(255, 255, 255, 0.04);
+    border-style: solid;
+    color: white;
+    border-color: #9ba3b4;
+    border-width: 0.2px;
+    color: #9ba3b4;
+}
+
+.main-download {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    margin-bottom: 20px;
+    background-color: #0078d4;
+    color: white;
+    border-style: solid;
+    border-radius: 8px;
+}
+
+.base-text {
+    font-size: smaller;
+    font-weight: normal;
+}
